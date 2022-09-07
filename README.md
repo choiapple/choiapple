@@ -1,4 +1,4 @@
-# CHOI JIN SEOK
+![header](https://capsule-render.vercel.app/api?type=waving&color=176DED&height=230&text=JinSeok%20Choi&fontSize=70)
 
 ![Jinseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=choiapple&show_icons=true&theme=radical) 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cj5255)](https://solved.ac/{handle})
