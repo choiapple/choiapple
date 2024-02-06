@@ -1,3 +1,6 @@
+<!-- 방문자수 확인 -->
+😉 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwan0518&count_bg=%2345A825&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Welcome&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=190DED&height=230&text=JinSeok%20Choi&fontSize=70)
 
 ![Jinseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=choiapple&show_icons=true&theme=radical)
